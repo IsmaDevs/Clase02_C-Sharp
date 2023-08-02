@@ -1,7 +1,7 @@
 # Clase02_C-Sharp
 Instance, Arrays, For with C#
 
-- IMPORTANTE
+- IMPORTANT
 
 This code is valid for console applications.
 Not for WindowsForms.
